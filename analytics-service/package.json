@@ -28,7 +28,7 @@
         "cron": "^2.0.0",
         "dotenv": "^16.0.0",
         "excel4node": "^1.8.2",
-        "express": "^4.17.1",
+        "express": "^4.20.0",
         "express-fileupload": "^1.4.0",
         "gulp": "^4.0.2",
         "gulp-copy": "^4.0.1",
@@ -42,7 +42,7 @@
         "prom-client": "^14.1.1",
         "prometheus-api-metrics": "3.2.2",
         "reflect-metadata": "^0.1.13",
-        "ws": "^8.2.1",
+        "ws": "^8.17.1",
         "yaml": "^2.3.1",
         "yup": "^1.1.1",
         "rxjs": "^7.8.1"
